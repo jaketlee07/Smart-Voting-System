@@ -102,12 +102,12 @@ Secure Voting System Diagram
 
 
 ### Supporting Artifacts
-- [![Secure Voting Technical Video](<images/Screenshot 2023-12-13 at 3.13.58 AM.png>)](https://drive.google.com/file/d/1uxM1krqYHxD_7CdXxKZS0DRKpa70xXmt/preview)
+[![Secure Voting Technical Video](<images/Screenshot 2023-12-13 at 3.13.58 AM.png>)](https://drive.google.com/file/d/1uxM1krqYHxD_7CdXxKZS0DRKpa70xXmt/preview)
 <p align="center">
 <i>Secure Voting Technical Video</i>
 </p>
 
-- [![Secure Voting Demo Video](<images/Screenshot 2023-12-13 at 3.11.57 AM.png>)](https://drive.google.com/file/d/1ghjzkZa16mnAUYdUfV_81MKFCMbAJU_l/preview)
+[![Secure Voting Demo Video](<images/Screenshot 2023-12-13 at 3.11.57 AM.png>)](https://drive.google.com/file/d/1ghjzkZa16mnAUYdUfV_81MKFCMbAJU_l/preview)
 <p align="center">
 <i>Secure Voting Demo Video</i>
 </p>
@@ -117,6 +117,3 @@ Secure Voting System Diagram
 
 - [ESP MQTT5 Example Code Of Data Exchange With Node](https://github.com/BU-EC444/04-Code-Examples/tree/main/mqtt5-exchange)
 - [ESP MQTT API Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/protocols/mqtt.html)
-- []()
-- []()
-- []()
